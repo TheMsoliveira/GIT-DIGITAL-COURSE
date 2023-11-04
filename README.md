@@ -3,4 +3,5 @@
 ## Salvando modificações no Git
 * comando git push
 * teste nova linha alterada
-* commit
+* 1
+* 2
